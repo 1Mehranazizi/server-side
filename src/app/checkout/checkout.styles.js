@@ -1,0 +1,18 @@
+export const styles = {
+  container: "mt-15px max-w-7xl mx-auto px-2 min-h-[50vh]",
+  infoContainer: "px-4 py-2 rounded-6px bg-cardColor mb-4",
+  header: "flex items-center justify-between no-print",
+  headerTitle: "text-lg font-bold text-textColor",
+  main: "grid gap-4 grid-cols-1 laptop:grid-cols-[3fr,1fr] mt-15px",
+  link: "px-4 py-2 rounded-6px bg-disablePrimary text-primaryColor transition hover:bg-primaryColor hover:text-primaryTextButton",
+  userInfo: "grid grid-cols-1 laptop:grid-cols-2 gap-4 mt-4",
+  infoRow: "flex items-center gap-2",
+  infoTitle: "text-textColor font-bold",
+  infoValue: "text-textColor",
+  addressContainer: "flex gap-4 mt-6 flex-col",
+  addressTitle: "text-textColor font-bold",
+  productContainer: "flex flex-col gap-4",
+  sendDescriptionBox: "flex mt-6 gap-2",
+  sDIcon: "fill-primaryColor w-[32px] h-[32px]",
+  sDText: "text-textColor",
+};

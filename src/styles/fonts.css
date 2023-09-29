@@ -1,0 +1,120 @@
+@font-face {
+  font-family: shabnam;
+  font-weight: 200;
+  src: url("/fonts/shabnam/Shabnam-Thin-FD-WOL.eot") format("eot"),
+    url("/fonts/shabnam/Shabnam-Thin-FD-WOL.woff") format("woff"),
+    url("/fonts/shabnam/Shabnam-Thin-FD-WOL.woff2") format("woff2");
+}
+@font-face {
+  font-family: shabnam;
+  font-weight: 300;
+  src: url("/fonts/shabnam/Shabnam-Light-FD-WOL.eot") format("eot"),
+    url("/fonts/shabnam/Shabnam-Light-FD-WOL.woff") format("woff"),
+    url("/fonts/shabnam/Shabnam-Light-FD-WOL.woff2") format("woff2");
+}
+@font-face {
+  font-family: shabnam;
+  font-weight: 400;
+  src: url("/fonts/shabnam/Shabnam-Medium-FD-WOL.eot") format("eot"),
+    url("/fonts/shabnam/Shabnam-Medium-FD-WOL.woff") format("woff"),
+    url("/fonts/shabnam/Shabnam-Medium-FD-WOL.woff2") format("woff2");
+}
+@font-face {
+  font-family: shabnam;
+  font-weight: 500;
+  src: url("/fonts/shabnam/Shabnam-Bold-FD-WOL.eot") format("eot"),
+    url("/fonts/shabnam/Shabnam-Bold-FD-WOL.woff") format("woff"),
+    url("/fonts/shabnam/Shabnam-Bold-FD-WOL.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: yekanbakh;
+  font-weight: bolder;
+  src: url("/fonts/yekanbakh/YekanBakh-Fat.eot") format("eot"),
+    url("/fonts/yekanbakh/YekanBakh-Fat.woff") format("woff");
+}
+
+@font-face {
+  font-family: yekanbakh;
+  font-weight: bold;
+  src: url("/fonts/yekanbakh/YekanBakh-Heavy.eot") format("eot"),
+    url("/fonts/yekanbakh/YekanBakh-Heavy.woff") format("woff");
+}
+
+@font-face {
+  font-family: yekanbakh;
+  src: url("/fonts/yekanbakh/YekanBakh-Medium.eot") format("eot"),
+    url("/fonts/yekanbakh/YekanBakh-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: yekanbakh;
+  font-weight: 500;
+  src: url("/fonts/yekanbakh/YekanBakh-Bold.eot") format("eot"),
+    url("/fonts/yekanbakh/YekanBakh-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: vazir;
+  font-weight: 500;
+  src: url("/fonts/shabnam/Shabnam-Bold-FD-WOL.eot") format("eot"),
+    url("/fonts/shabnam/Shabnam-Bold-FD-WOL.woff") format("woff"),
+    url("/fonts/shabnam/Shabnam-Bold-FD-WOL.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: vazir;
+  font-weight: 100;
+  src: url("/fonts/vazir/Vazirmatn-Thin.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: vazir;
+  font-weight: 200;
+  src: url("/fonts/vazir/Vazirmatn-Light.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: vazir;
+  font-weight: 300;
+  src: url("/fonts/vazir/Vazirmatn-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: vazir;
+  font-weight: 400;
+  src: url("/fonts/vazir/Vazirmatn-Medium.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: vazir;
+  font-weight: 500;
+  src: url("/fonts/vazir/Vazirmatn-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: vazir;
+  font-weight: 600;
+  src: url("/fonts/vazir/Vazirmatn-SemiBold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: vazir;
+  font-weight: 700;
+  src: url("/fonts/vazir/Vazirmatn-ExtraBold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: vazir;
+  font-weight: 900;
+  src: url("/fonts/vazir/Vazirmatn-Black.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: B-NAZANIN;
+  src: url("/fonts/nazanin/B-NAZANIN.TTF") format("ttf");
+}
+@font-face {
+  font-family: B-NAZANIN;
+  src: url("/fonts/nazanin/BNazanin.woff2") format("woff2");
+}
